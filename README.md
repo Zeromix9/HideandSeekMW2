@@ -2,6 +2,8 @@
 This is the Hide and Seek Mod for MW2, which was created by ZXZ, which I edited a bit.
 It also contains a mapvote mod/plugin.
 
+Don´t forget, that you need to change the gametype to Search and Destroy!
+
 Changelog:
 
 
